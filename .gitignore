@@ -46,4 +46,3 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
-apps/decentralinks/node_modules

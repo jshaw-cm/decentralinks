@@ -1,0 +1,9 @@
+abandon proud pottery retreat air trim harvest test canal pluck cup retreat
+
+access grant: 1cCYAHeo6b3QziQe9B9VXKtgBUJ6D6ZbAovEvr2U4DqND9iGTmqrX37NQcugmjDmsgKHs6XbqRyr3RV2RKjFPSrYeQfqJT3mNB8SisU2ScZKSmtWJadCdezzngS4crTdGLZViFaVcF2Mh5Lv2B5KYScvU3sQD4rrCZUT8G5q1x1hduHiSVCTTZ1YGPwBnUUenJsch9CbKHLjq6V1bCtmL3Y3YRyHPF5Kmo4meMLjtwkFXc89VQgToDxvbPgMhsnHrG5qdZ8BWob1
+
+access key: jvdstxbu5pc5hha2klxexllwdq2q
+
+secret key: jyxj6rrc32nelegx34ohwulojedbojwc2c27pghktes22znqcvcyy
+
+endpoint: https://gateway.us1.storjshare.io
